@@ -1,5 +1,6 @@
 # Machine-Learning
-Exercises of the Machine Learning course  
+Exercises of the Machine Learning course. Each exercise has the following topics:  
+  
 Ex 1:   
     * Implementations of linear regression and get to see it work on data:  
         - Profit prediction for a food track using linear Regression   
