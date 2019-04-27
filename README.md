@@ -1,5 +1,5 @@
 # Machine-Learning
-Exercises of the Machine Learning course. Each exercise has the following topics:  
+Exercises of the Machine Learning course in MATLAB/Octave. Each exercise has the following topics:  
   
 Ex 1:   
     * Implementations of linear regression and get to see it work on data:  
